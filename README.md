@@ -58,5 +58,8 @@ reddit.com##faceplate-tracker[noun="games_drawer"] + hr
 ! 雪球
 ! 首页发帖区域
 xueqiu.com##.editor-container
+! 时间线官方账户广告
+xueqiu.com##.timeline__item:has(.user-name[href="/1493325944"])
+xueqiu.com##.timeline__item:has(.user-name[href="/6748279279"])
 
 ```
